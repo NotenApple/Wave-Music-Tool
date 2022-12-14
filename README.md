@@ -27,4 +27,4 @@ catch(Exception ex)
 
 ### License
 
-Release under [MIT LICENSE]()
+Release under [MIT LICENSE](https://github.com/NotenApple/Wave-Music-Tool/blob/master/LICENSE)
