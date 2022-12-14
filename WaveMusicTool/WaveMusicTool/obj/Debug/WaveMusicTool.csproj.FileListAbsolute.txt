@@ -1,0 +1,11 @@
+C:\Users\Apple_kun\Desktop\WaveMusicTool\WaveMusicTool\bin\Debug\WaveMusicTool.exe.config
+C:\Users\Apple_kun\Desktop\WaveMusicTool\WaveMusicTool\bin\Debug\WaveMusicTool.exe
+C:\Users\Apple_kun\Desktop\WaveMusicTool\WaveMusicTool\bin\Debug\WaveMusicTool.pdb
+C:\Users\Apple_kun\Desktop\WaveMusicTool\WaveMusicTool\obj\Debug\WaveMusicTool.csproj.AssemblyReference.cache
+C:\Users\Apple_kun\Desktop\WaveMusicTool\WaveMusicTool\obj\Debug\WaveMusicTool.csproj.SuggestedBindingRedirects.cache
+C:\Users\Apple_kun\Desktop\WaveMusicTool\WaveMusicTool\obj\Debug\WaveMusicTool.Properties.Resources.resources
+C:\Users\Apple_kun\Desktop\WaveMusicTool\WaveMusicTool\obj\Debug\WaveMusicTool.csproj.GenerateResource.cache
+C:\Users\Apple_kun\Desktop\WaveMusicTool\WaveMusicTool\obj\Debug\WaveMusicTool.csproj.CoreCompileInputs.cache
+C:\Users\Apple_kun\Desktop\WaveMusicTool\WaveMusicTool\obj\Debug\WaveMusicTool.exe
+C:\Users\Apple_kun\Desktop\WaveMusicTool\WaveMusicTool\obj\Debug\WaveMusicTool.pdb
+C:\Users\Apple_kun\Desktop\WaveMusicTool\WaveMusicTool\obj\Debug\WaveMusicTool.Source.resources
