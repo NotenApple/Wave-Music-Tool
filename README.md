@@ -1,4 +1,8 @@
-### <p align="LEFT">Wave Music Tool</p>
+### <p align="center">Wave Music Tool ♫</p>
+
+<p align="center">
+  <img src="https://github.com/NotenApple/Wave-Music-Tool/blob/master/Image/WaveMusicTool.png" width="500" height="200">
+</p>
 
 ---
 
